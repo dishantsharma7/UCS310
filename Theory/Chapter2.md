@@ -74,7 +74,7 @@ NULL VALUE -- It indicates absence of a value and NOT same as 0, It represents a
 
 ## RELATIONAL INTEGRITY
 
-Relational Integrity constraints is referred to conditions which must be present for avalid relation. These integrity constraints are derived from the rules that the database represents.
+Relational Integrity constraints is referred to conditions which must be present for a valid relation. These integrity constraints are derived from the rules that the database represents.
 
 There are three types of such Relational constraints
 
