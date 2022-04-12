@@ -1,6 +1,6 @@
 ### Generalisation
 
-A generalization hierarchy is a form of abstraction that specifies  that two or more entities that share common attributes can be  generalized into a higher-level entity type called a supertype or  generic entity. 
+A generalization hierarchy is a form of **abstraction** that specifies  that two or more entities that share common attributes can be  generalized into a higher-level entity type called a supertype or  generic entity. 
 
 
 The lower level of entities becomes the subtype,  or categories, to the super type. 
