@@ -2,7 +2,7 @@
 
 ## RELATIONAL DATABASE
 
-It represents the database as a colection of relations
+It represents the database as a colection of **relations**
 
 Each relation, 'informally' is a table or a flat file of records
 
